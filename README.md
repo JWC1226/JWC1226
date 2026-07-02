@@ -1,6 +1,4 @@
 ## JWC1226
-https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=JWC%201226&textBg=false&section=header&reversal=false
-
 - 00 / 12 / 26、男、거주: 서울특별시 서대문구
 - MBTI: ENTP
 
