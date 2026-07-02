@@ -1,5 +1,5 @@
 ## JWC1226
-<!-- Header -->
+[<!-- Header -->](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=JWC%201226)
 ---
 ## 👋 Introduce
 - 🎯 **팀원들과 소통**하고, 문제를 해결하려는 **자유로운** 개발자입니다.
