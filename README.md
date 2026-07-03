@@ -1,5 +1,5 @@
 ## JWC1226
-![rect](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=JWC%201226)
+![rect](https://capsule-render.vercel.app/api?type=rounded&height=300&color=f1bf84&text=JWC%201226&fontSize=80&fontColor=435845)
 
 
 ## 👋 Introduce
