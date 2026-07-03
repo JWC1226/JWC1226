@@ -1,9 +1,8 @@
 ## JWC1226
-![rect](https://capsule-render.vercel.app/api?type=rounded&height=300&color=f1bf84&text=JWC%201226&fontSize=80&fontColor=435845)
+![rect](https://capsule-render.vercel.app/api?type=rounded&height=300&color=f1bf84&text=Introduce-nl-%20-nl-"팀원들과%20소통"하고-nl-문제를%20해결하려는-nl-"자유로운"%20개발자입니다&fontSize=45&fontColor=435845&fontAlignY=15)
 
 
-## 👋 Introduce
-- 🎯 **팀원들과 소통**하고, 문제를 해결하려는 **자유로운** 개발자입니다.
+
 ---
 
 ## 🧱 Tech Stack
